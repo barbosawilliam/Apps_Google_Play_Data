@@ -32,7 +32,6 @@ def Adiciona_Link_em_Lista (link_atual, lista_links, categoria):
 
 def Inicializa_Chrome (link):
     driver = webdriver.Chrome() #Criando uma instância do Google Chrome e salvando na variável 'driver'
-    link = 'https://play.google.com/store/apps'
     driver.get(link) #Navegando para o URL de interesse
     return driver
 
