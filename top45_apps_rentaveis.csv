@@ -1,46 +1,46 @@
 App,Categoria,Ranking,Downloads,Tipo,Preco,Nota,Avaliacoes,Contem_Anuncios,Compras_no_App,Versao,Ultima_Atualizacao,Android,Classificacao_Conteudo,Lancamento
 Google One,Produtividade,1,500000000,Gratuito,0,4.3,367000,Não,Sim,Varia de acordo com o dispositivo,25/07/2022,Varia,Classificação Livre,12/09/2018
-"Globoplay: filmes, séries e +",Entretenimento,2,50000000,Gratuito,0,4.3,667000,Sim,Não,Varia de acordo com o dispositivo,10/08/2022,5.0,"Classificação 14 anos • Violência, Temas Sensíveis",20/08/2013
-HBO Max: Assista à TV e filmes,Entretenimento,3,100000000,Gratuito,0,3.1,397000,Sim,Não,Varia de acordo com o dispositivo,8/08/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",29/06/2021
-Tinder - Bate Papo e Namoro,Estilo de vida,4,100000000,Gratuito,0,3.5,4700000,Sim,Não,13.14.0,2/08/2022,7.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",15/07/2013
+"Globoplay: filmes, séries e +",Entretenimento,2,50000000,Gratuito,0,4.3,667000,Sim,Sim,Varia de acordo com o dispositivo,10/08/2022,5.0,"Classificação 14 anos • Violência, Temas Sensíveis",20/08/2013
+HBO Max: Assista à TV e filmes,Entretenimento,3,100000000,Gratuito,0,3.1,397000,Sim,Sim,Varia de acordo com o dispositivo,8/08/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",29/06/2021
+Tinder - Bate Papo e Namoro,Estilo de vida,4,100000000,Gratuito,0,3.5,4700000,Sim,Sim,13.14.0,2/08/2022,7.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",15/07/2013
 Disney+,Entretenimento,5,100000000,Gratuito,0,4.3,1970000,Não,Sim,2.9.1-rc1,15/08/2022,5.0,"Classificação 16 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",16/11/2020
-"Canva: Design, Foto e Vídeo",Arte e design,6,100000000,Gratuito,0,4.8,9150000,Não,Sim,2.178.0,10/08/2022,5.0,Classificação 10 anos • Linguagem Imprópria,27/11/2017
-TikTok,Social,7,1000000000,Gratuito,0,4.5,51200000,Sim,Não,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,14/09/2015
+"Canva: Design, Foto e Vídeo",Arte e design,6,100000000,Gratuito,0,4.8,9160000,Não,Sim,2.178.0,10/08/2022,5.0,Classificação 10 anos • Linguagem Imprópria,27/11/2017
+TikTok,Social,7,1000000000,Gratuito,0,4.5,51200000,Sim,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,14/09/2015
 Star+,Entretenimento,8,10000000,Gratuito,0,4.3,213000,Não,Sim,2.10.0-rc1,1/08/2022,5.0,"Classificação 16 anos • Violência, Conteúdo Sexual, Drogas Ilícitas",17/08/2021
-Crunchyroll,Entretenimento,9,50000000,Gratuito,0,4.4,1020000,Sim,Não,Varia de acordo com o dispositivo,10/08/2022,Varia,"Classificação 16 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",20/12/2010
-Kwai - Ver Vídeos Bacanas,Reproduzir e editar vídeos,10,100000000,Gratuito,0,4.8,9430000,Sim,Não,6.7.10.526806,15/08/2022,5.0,Classificação 12 anos • Linguagem Imprópria,2/03/2018
-Resso - Músicas e Podcasts,Música e áudio,11,100000000,Gratuito,0,4.6,2760000,Sim,Não,1.84.0,9/08/2022,5.0,Classificação 12 anos • Conteúdo Sexual,10/05/2019
-Twitch: Transmissão ao vivo,Entretenimento,12,100000000,Gratuito,0,4.5,4960000,Sim,Não,Varia de acordo com o dispositivo,8/08/2022,5.0,Classificação 12 anos • Linguagem Imprópria,20/05/2015
-Duolingo: Inglês e muito mais!,Educação,13,100000000,Gratuito,0,4.7,13300000,Sim,Não,Varia de acordo com o dispositivo,9/08/2022,Varia,Classificação Livre,29/05/2013
-happn — App de paquera,Estilo de vida,14,50000000,Gratuito,0,4.2,1660000,Sim,Não,26.18.1,4/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",19/08/2014
+Crunchyroll,Entretenimento,9,50000000,Gratuito,0,4.4,1020000,Sim,Sim,Varia de acordo com o dispositivo,10/08/2022,Varia,"Classificação 16 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",20/12/2010
+Kwai - Ver Vídeos Bacanas,Reproduzir e editar vídeos,10,100000000,Gratuito,0,4.8,9440000,Sim,Sim,6.7.20.526904,16/08/2022,5.0,Classificação 12 anos • Linguagem Imprópria,2/03/2018
+Resso - Músicas e Podcasts,Música e áudio,11,100000000,Gratuito,0,4.6,2760000,Sim,Sim,1.84.0,11/08/2022,5.0,Classificação 12 anos • Conteúdo Sexual,10/05/2019
+Twitch: Transmissão ao vivo,Entretenimento,12,100000000,Gratuito,0,4.5,4960000,Sim,Sim,Varia de acordo com o dispositivo,8/08/2022,5.0,Classificação 12 anos • Linguagem Imprópria,20/05/2015
+Duolingo: Inglês e muito mais!,Educação,13,100000000,Gratuito,0,4.7,13300000,Sim,Sim,Varia de acordo com o dispositivo,9/08/2022,Varia,Classificação Livre,29/05/2013
+happn — App de paquera,Estilo de vida,14,50000000,Gratuito,0,4.2,1660000,Sim,Sim,26.19.0,16/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",19/08/2014
 Microsoft OneDrive,Produtividade,15,1000000000,Gratuito,0,4.8,3500000,Não,Sim,6.61,12/08/2022,6.0,Classificação Livre,28/08/2012
-Serasa: Consulta CPF e Score,Finanças,16,10000000,Gratuito,0,4.4,559000,Sim,Não,8.22.0,15/07/2022,5.0,Classificação Livre,25/11/2015
-Viki: doramas em português,Entretenimento,17,50000000,Gratuito,0,4.0,857000,Sim,Não,22.7.0,6/08/2022,6.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",4/03/2012
+Serasa: Consulta CPF e Score,Finanças,16,10000000,Gratuito,0,4.4,559000,Sim,Sim,8.22.0,15/07/2022,5.0,Classificação Livre,25/11/2015
+Viki: doramas em português,Entretenimento,17,50000000,Gratuito,0,4.0,857000,Sim,Sim,22.7.0,6/08/2022,6.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",4/03/2012
 Dating: Inner Circle Encontros,Encontros,18,1000000,Gratuito,0,4.1,25100,Não,Sim,4.33,15/08/2022,Varia,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",4/06/2015
-LinkedIn: Pesquisa de emprego,Corporativo,19,1000000000,Gratuito,0,4.6,2470000,Sim,Não,4.1.718.1,3/08/2022,8.0,Classificação 12 anos • Linguagem Imprópria,7/04/2011
-Whitebook Medicina: Residência,Medicina,20,1000000,Gratuito,0,4.4,10400,Sim,Não,11.15.2,8/08/2022,5.0,Classificação Livre,10/04/2013
+LinkedIn: Pesquisa de emprego,Corporativo,19,1000000000,Gratuito,0,4.6,2470000,Sim,Sim,4.1.718.1,10/08/2022,8.0,Classificação 12 anos • Linguagem Imprópria,7/04/2011
+Whitebook Medicina: Residência,Medicina,20,1000000,Gratuito,0,4.4,10400,Sim,Sim,11.16.0,8/08/2022,5.0,Classificação Livre,10/04/2013
 "Strava: Corra, Pedale, Explore",Saúde e fitness,21,50000000,Gratuito,0,4.4,770000,Não,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,9/06/2011
-Grindr - Bate-papo gay,Social,22,10000000,Gratuito,0,3.8,721000,Sim,Não,8.14.1,10/08/2022,5.0,"Classificação 18 anos • Conteúdo Sexual, Nudez, Linguagem Imprópria",25/02/2011
-Google Drive,Produtividade,23,5000000000,Gratuito,0,4.3,9340000,Não,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação Livre,27/04/2011
-Premiere,Esportes,24,5000000,Gratuito,0,4.3,100000,Sim,Não,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação Livre,5/07/2013
-Passei Direto - App de Estudos,Educação,25,10000000,Gratuito,0,3.9,206000,Sim,Não,6.10.0,15/06/2022,5.0,Classificação Livre,30/10/2013
-BuzzCast - Ex-FaceCast,Social,26,10000000,Gratuito,0,4.1,64200,Não,Sim,2.7.58,8/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",11/05/2018
-Dreame,Livros e referências,27,10000000,Gratuito,0,4.4,982000,Não,Sim,3.6.1,28/07/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Drogas Lícitas",9/08/2018
-Ligo Live,Entretenimento,28,1000000,Gratuito,0,3.7,6140,Não,Sim,1.3.3.2,12/08/2022,6.0,"Classificação 14 anos • Conteúdo Sexual, Conteúdo Impactante, Linguagem Imprópria",7/08/2020
-Facebook,Social,29,5000000000,Gratuito,0,4.0,130000000,Sim,Não,Varia de acordo com o dispositivo,10/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,
-Deezer: Ouvir Música e Podcast,Música e áudio,30,100000000,Gratuito,0,4.6,2950000,Sim,Não,Varia de acordo com o dispositivo,25/07/2022,Varia,"Classificação 12 anos • Conteúdo Sexual, Linguagem Imprópria",
-Picsart Editor de Foto e Vídeo,Fotografia,31,500000000,Gratuito,0,4.0,11500000,Sim,Não,Varia de acordo com o dispositivo,12/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,4/11/2011
-Lera-Brilha Seu Sorriso,Livros e referências,32,1000000,Gratuito,0,4.3,11700,Sim,Não,5.8.2.1,27/07/2022,4.4,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",24/03/2020
-Badoo: conversas e encontros,Encontros,33,100000000,Gratuito,0,4.1,5950000,Sim,Não,5.281.0,14/08/2022,5.0,"Classificação 18 anos • Conteúdo Sexual, Nudez, Linguagem Imprópria",17/12/2010
-Circuit Planejador de Rotas,Mapas e navegação,34,5000000,Gratuito,0,4.7,89100,Não,Sim,3.1.8,15/08/2022,5.0,Classificação Livre,26/10/2016
-discovery+ | Streaming,Entretenimento,35,5000000,Gratuito,0,4.8,172000,Sim,Não,16.2.4,5/08/2022,5.1,"Classificação 14 anos • Violência, Linguagem Imprópria",9/11/2021
-FaceApp: Editor facial,Fotografia,36,100000000,Gratuito,0,4.5,4430000,Sim,Não,10.2.4.2,26/07/2022,7.0,Classificação Livre,14/02/2017
-Treino para perda de peso,Saúde e fitness,37,10000000,Gratuito,0,4.2,93900,Não,Sim,4.9.1,1/08/2022,8.0,Classificação Livre,18/10/2019
+Grindr - Bate-papo gay,Social,22,10000000,Gratuito,0,3.8,721000,Sim,Sim,8.14.1,10/08/2022,5.0,"Classificação 18 anos • Conteúdo Sexual, Nudez, Linguagem Imprópria",25/02/2011
+Google Drive,Produtividade,23,5000000000,Gratuito,0,4.3,9350000,Não,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação Livre,27/04/2011
+Premiere,Esportes,24,5000000,Gratuito,0,4.3,100000,Sim,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação Livre,5/07/2013
+Passei Direto - App de Estudos,Educação,25,10000000,Gratuito,0,3.9,206000,Sim,Sim,6.10.0,15/06/2022,5.0,Classificação Livre,30/10/2013
+BuzzCast - Ex-FaceCast,Social,26,10000000,Gratuito,0,4.1,64300,Não,Sim,2.7.58,13/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",11/05/2018
+Dreame,Livros e referências,27,10000000,Gratuito,0,4.4,983000,Não,Sim,3.6.1,12/08/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Drogas Lícitas",9/08/2018
+Ligo Live,Entretenimento,28,1000000,Gratuito,0,3.7,6150,Não,Sim,1.3.4.0,12/08/2022,6.0,"Classificação 14 anos • Conteúdo Sexual, Conteúdo Impactante, Linguagem Imprópria",7/08/2020
+Facebook,Social,29,5000000000,Gratuito,0,4.0,130000000,Sim,Sim,Varia de acordo com o dispositivo,15/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,
+Deezer: Ouvir Música e Podcast,Música e áudio,30,100000000,Gratuito,0,4.6,2950000,Sim,Sim,Varia de acordo com o dispositivo,25/07/2022,Varia,"Classificação 12 anos • Conteúdo Sexual, Linguagem Imprópria",
+Picsart Editor de Foto e Vídeo,Fotografia,31,500000000,Gratuito,0,4.0,11500000,Sim,Sim,Varia de acordo com o dispositivo,12/08/2022,Varia,Classificação 12 anos • Linguagem Imprópria,4/11/2011
+Lera-Brilha Seu Sorriso,Livros e referências,32,1000000,Gratuito,0,4.3,11700,Sim,Sim,5.8.2.1,27/07/2022,4.4,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",24/03/2020
+Badoo: conversas e encontros,Encontros,33,100000000,Gratuito,0,4.1,5950000,Sim,Sim,5.281.0,14/08/2022,5.0,"Classificação 18 anos • Conteúdo Sexual, Nudez, Linguagem Imprópria",17/12/2010
+Circuit Planejador de Rotas,Mapas e navegação,34,5000000,Gratuito,0,4.7,89200,Não,Sim,3.1.8,15/08/2022,5.0,Classificação Livre,26/10/2016
+discovery+ | Streaming,Entretenimento,35,5000000,Gratuito,0,4.8,173000,Sim,Sim,16.2.4,5/08/2022,5.1,"Classificação 14 anos • Violência, Linguagem Imprópria",9/11/2021
+FaceApp: Editor facial,Fotografia,36,100000000,Gratuito,0,4.5,4430000,Sim,Sim,10.2.4.2,26/07/2022,7.0,Classificação Livre,14/02/2017
+Treino para perda de peso,Saúde e fitness,37,10000000,Gratuito,0,4.2,94500,Não,Sim,4.9.1,1/08/2022,8.0,Classificação Livre,18/10/2019
 "Udemy: aprender online com 130,000 video cursos",Educação,38,10000000,Gratuito,0,4.6,372000,Não,Sim,8.3.0,26/07/2022,6.0,Classificação Livre,14/01/2014
-Discord - Converse & Fale,Comunicação,39,100000000,Gratuito,0,4.5,4580000,Não,Sim,126.21 - Stable,15/08/2022,5.0,"Classificação 14 anos • Conteúdo Impactante, Linguagem Imprópria",13/05/2015
-"Bumble: date, amigos e network",Encontros,40,10000000,Gratuito,0,4.2,439000,Não,Sim,5.281.0,5/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",22/12/2015
-CamScanner - PDF Scanner app,Produtividade,41,100000000,Gratuito,0,4.9,4080000,Sim,Não,6.22.0.2207280000,4/08/2022,5.0,Classificação Livre,30/10/2010
-Paramount+,Entretenimento,42,10000000,Gratuito,0,4.1,94600,Não,Sim,12.0.25,2/08/2022,5.0,"Classificação 16 anos • Violência, Conteúdo Sexual, Drogas Ilícitas",15/02/2021
-"Hago- Festa, Conversa, Jogos",Social,43,100000000,Gratuito,0,4.2,6230000,Sim,Não,5.2.5,10/08/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",29/06/2018
+Discord - Converse & Fale,Comunicação,39,100000000,Gratuito,0,4.5,4590000,Não,Sim,126.21 - Stable,15/08/2022,5.0,"Classificação 14 anos • Conteúdo Impactante, Linguagem Imprópria",13/05/2015
+"Bumble: date, amigos e network",Encontros,40,10000000,Gratuito,0,4.2,439000,Não,Sim,5.281.0,12/08/2022,5.0,"Classificação 14 anos • Conteúdo Sexual, Linguagem Imprópria",22/12/2015
+CamScanner - PDF Scanner app,Produtividade,41,100000000,Gratuito,0,4.9,4080000,Sim,Sim,6.22.0.2207280000,4/08/2022,5.0,Classificação Livre,30/10/2010
+Paramount+,Entretenimento,42,10000000,Gratuito,0,4.1,94700,Não,Sim,12.0.25,2/08/2022,5.0,"Classificação 16 anos • Violência, Conteúdo Sexual, Drogas Ilícitas",15/02/2021
+"Hago- Festa, Conversa, Jogos",Social,43,100000000,Gratuito,0,4.2,6230000,Sim,Sim,5.2.5,10/08/2022,5.0,"Classificação 14 anos • Violência, Conteúdo Sexual, Linguagem Imprópria",29/06/2018
 Adobe Acrobat Reader: Ler PDF,Produtividade,44,500000000,Gratuito,0,4.7,5200000,Não,Sim,Varia de acordo com o dispositivo,4/08/2022,Varia,Classificação Livre,24/05/2010
-Avast Antivírus & Segurança,Ferramentas,45,100000000,Gratuito,0,4.8,6990000,Sim,Não,6.49.4,10/08/2022,6.0,Classificação Livre,6/12/2011
+Avast Antivírus & Segurança,Ferramentas,45,100000000,Gratuito,0,4.8,6990000,Sim,Sim,6.49.4,10/08/2022,6.0,Classificação Livre,6/12/2011
